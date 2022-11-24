@@ -2,6 +2,6 @@
 
 This repository contains the Group Quizzes made during the UCL BIOS0030 Lecture course.
 
-You can view the notebooks in this folder online using:
+You can run these files in an online notebook using the links below:
 
-https://nbviewer.org/github/philipwlewis/BIOS0030_Quizzes2022/tree/main/
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD)
