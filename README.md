@@ -1,39 +1,38 @@
+
 # BIOS0030_Quizzes2022
 
 This repository contains the Group Quizzes made during the UCL BIOS0030 Lecture course.
 
 You can run these files in an online notebook using the links below:
 
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20A%20Quiz.ipynb' >[Group A Quiz : Oleksandra, Julie, Luna ] </a>
 
-[Group A Quiz : Oleksandra, Julie, Luna ](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?target=_blank?labpath=Group%20A%20Quiz.ipynb){:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20B%20Quiz.ipynb' >[Group B Quiz : Zahiya Ayushi Toma Arman Arwen]</a>
 
-[Group B Quiz : Zahiya Ayushi Toma Arman Arwen](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20B%20Quiz.ipynb){:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20C%20Quiz.ipynb' >[Group C Quiz : Alliya Mod Aiyi]</a>
 
-[Group C Quiz : Alliya Mod Aiyi](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20C%20Quiz.ipynb){:target="_blank"}
- 
-Group D : Charlie H, Leeanne, Boyang, Martin (awaiting upload!)
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20D%20Quiz.ipynb' >Group D : Charlie H, Leeanne, Boyang, Martin (awaiting upload!)</a>
 
-[Group E Quiz 1 : Aaron Kiara Rusne Jiajun](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20E%20Quiz%201.ipynb){:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20E%20Quiz%201.ipynb' >[Group E Quiz 1 : Aaron Kiara Rusne Jiajun]</a>
 
-[Group E Quiz 2 : Aaron Kiara Rusne Jiajun](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20E%20Quiz%202.ipynb){:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20E%20Quiz%202.ipynb' >[Group E Quiz 2 : Aaron Kiara Rusne Jiajun]</a>
 
-[Group F Quiz : Micaela Laura Sonia Izabella Blanca](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20F%20Quiz.ipynb){:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20F%20Quiz.ipynb' >[Group F Quiz : Micaela Laura Sonia Izabella Blanca]</a>
 
-[Group G Quiz : Damjan Jiaming Sara Emiko](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20G%20Quiz.ipynb){:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20G%20Quiz.ipynb' >[Group G Quiz : Damjan Jiaming Sara Emiko]</a>
 
-[Group H Quiz 1 : Anya Kavya Annia](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20H%20Quiz%201.ipynb){:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20H%20Quiz%201.ipynb' >[Group H Quiz 1 : Anya Kavya Annia]</a>
 
-[Group H Quiz 2 : Anya Kavya Annia](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20H%20Quiz%202.ipynb){:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20H%20Quiz%202.ipynb' >[Group H Quiz 2 : Anya Kavya Annia]</a>
 
-[Group I Quiz : Jesse Gabriel Chenjie Nuo](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20I%20Quiz.ipynb){:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20I%20Quiz.ipynb' >[Group I Quiz : Jesse Gabriel Chenjie Nuo]</a>
 
-[Group J Quiz : Jia Jasmine Nanaka Liepa](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20J%20Quiz.ipynb){:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20J%20Quiz.ipynb' >[Group J Quiz : Jia Jasmine Nanaka Liepa]</a>
 
-[Group K Quiz 1 : Nurkhaliesah Rhea Hiba](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20K%20Quiz%201.ipynb){:target="_blank"}{:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20K%20Quiz%201.ipynb' >[Group K Quiz 1 : Nurkhaliesah Rhea Hiba]</a>
 
-[Group K Quiz 2 : Nurkhaliesah Rhea Hiba](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20K%20Quiz%202.ipynb){:target="_blank"}{:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20K%20Quiz%202.ipynb' >[Group K Quiz 2 : Nurkhaliesah Rhea Hiba]</a>
 
-[Group L Quiz 1 : Minuk Charlie B Nichita Emma Isaax Sebastian](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20L%20Quiz%201.ipynb){:target="_blank"}
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20L%20Quiz%201.ipynb' >[Group L Quiz 1 : Minuk Charlie B Nichita Emma Isaax Sebastian]</a>
 
-[Group L Quiz 2 : Minuk Charlie B Nichita Emma Isaax Sebastian](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20L%20Quiz%202.ipynb){:target="_blank"}
-
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20L%20Quiz%202.ipynb' >[Group L Quiz 1 : Minuk Charlie B Nichita Emma Isaax Sebastian]</a>
