@@ -5,7 +5,7 @@ This repository contains the Group Quizzes made during the UCL BIOS0030 Lecture 
 You can run these files in an online notebook using the links below:
 
 
-[Group A Quiz : Oleksandra, Julie, Luna ](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20A%20Quiz.ipynb){:target="_blank"}
+[Group A Quiz : Oleksandra, Julie, Luna ](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?target=_blank?labpath=Group%20A%20Quiz.ipynb){:target="_blank"}
 
 [Group B Quiz : Zahiya Ayushi Toma Arman Arwen](https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20B%20Quiz.ipynb){:target="_blank"}
 
