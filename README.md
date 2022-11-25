@@ -11,7 +11,7 @@ You can run these files in an online notebook using the links below:
 
 <a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20C%20Quiz.ipynb' >[Group C Quiz : Alliya Mod Aiyi]</a>
 
-<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20D%20Quiz.ipynb' >Group D : Charlie H, Leeanne, Boyang, Martin (awaiting upload!)</a>
+<a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20D%20Quiz.ipynb' >Group D : Charlie H, Leeanne, Boyang, Martin </a>
 
 <a target='_blank' href='https://mybinder.org/v2/gh/philipwlewis/BIOS0030_Quizzes2022/HEAD?labpath=Group%20E%20Quiz%201.ipynb' >[Group E Quiz 1 : Aaron Kiara Rusne Jiajun]</a>
 
